@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Tập Vật Lý 11 - Thầy Thành",
+  "description": "Hệ thống luyện tập và thi trực tuyến môn Vật lý 11 - Giao bài tập, làm bài, chấm điểm tự động và thống kê kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
